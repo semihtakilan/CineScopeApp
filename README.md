@@ -34,8 +34,8 @@ This project strictly follows the **MVVM (Model-View-ViewModel)** architectural 
 
 | Discovery (Home & Actors) | Movie Deep Dive (Details & Cast) | Features (Search & Library) |
 | :---: | :---: | :---: |
-| ![Home Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/HomeDarkTr.png?raw=true) | ![Movie Detail Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/MovieDetailDarkTr.png?raw=true) | ![Search Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/SearchDarkTr.png?raw=true) |
-| ![Person Detail Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/PersonLightEn.png?raw=true) | ![Movie Detail Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/MovieDetailLightEn.png?raw=true) | ![Library Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/LibraryLightEn.png?raw=true) |
+| ![Home Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/HomeDarkTr.png?raw=true) | ![Movie Detail Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/MovieDetailDarkTr.png?raw=true) | ![Search Dark TR](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/SearchDarkTr.png?raw=true) |
+| ![Person Detail Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/PersonLightEn.png?raw=true) | ![Movie Detail Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/MovieDetailLightEn.png?raw=true) | ![Library Light EN](https://github.com/semihtakilan/CineScopeApp/blob/main/Images/LibraryLightEn.png?raw=true) |
 
 ## 🚀 Installation & Setup
 
