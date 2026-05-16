@@ -75,5 +75,5 @@ For security reasons, the API key is excluded from this repository. You must cre
 ## 👨‍💻 Author
 
 **Semih TAKILAN**
-Computer Engineering Student & iOS Developer Candidate
+Computer Engineering Student & iOS Developer Candidate                                                                                                                           
 [LinkedIn Profile](https://www.linkedin.com/in/semihtakilan) | [GitHub Profile](https://github.com/semihtakilan)
